@@ -1,5 +1,5 @@
 # bfjurtuj
 
-<!-- update: A -->
+<!-- update: B -->
 
-> 💡 *IT Quote:* "_Experience is the name everyone gives to their mistakes. – Oscar Wilde_"
+> 💡 *IT Quote:* "_Talk is cheap. Show me the code. – Linus Torvalds_"
