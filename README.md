@@ -61,6 +61,6 @@ Interactive Map Overlay: Real-time distance telemetry and entity bounding boxes 
 
 
 
-<!-- update: A -->
+<!-- update: B -->
 
-> 💡 *IT Quote:* "_First, solve the problem. Then, write the code. – John Johnson_"
+> 💡 *IT Quote:* "_Make it work, make it right, make it fast. – Kent Beck_"
