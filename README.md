@@ -1,3 +1,5 @@
+<img width="1774" height="887" alt="ChatGPT Image 13 авг  2026 г , 13_51_56 (1) (1)" src="https://github.com/user-attachments/assets/05d15e70-ae4b-41b6-b3b4-e1da015c43b9" />
+
 # 🏵️ NewEraAI-Genshin-Impact — Akasha Terminal & Teyvat Exploration Framework
 
 <p align="center">
