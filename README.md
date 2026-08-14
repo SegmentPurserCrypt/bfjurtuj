@@ -61,6 +61,6 @@ Interactive Map Overlay: Real-time distance telemetry and entity bounding boxes 
 
 
 
-<!-- update: A -->
+<!-- update: B -->
 
-> 💡 *IT Quote:* "_Talk is cheap. Show me the code. – Linus Torvalds_"
+> 💡 *IT Quote:* "_Make it work, make it right, make it fast. – Kent Beck_"
