@@ -61,6 +61,6 @@ Interactive Map Overlay: Real-time distance telemetry and entity bounding boxes 
 
 
 
-<!-- update: B -->
+<!-- update: A -->
 
-> 💡 *IT Quote:* "_Experience is the name everyone gives to their mistakes. – Oscar Wilde_"
+> 💡 *IT Quote:* "_Code is like humor. When you have to explain it, it’s bad. – Cory House_"
