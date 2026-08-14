@@ -61,6 +61,6 @@ Interactive Map Overlay: Real-time distance telemetry and entity bounding boxes 
 
 
 
-<!-- update: B -->
+<!-- update: A -->
 
-> 💡 *IT Quote:* "_Talk is cheap. Show me the code. – Linus Torvalds_"
+> 💡 *IT Quote:* "_Programs must be written for people to read, and only incidentally for machines to execute. – Abelson & Sussman_"
