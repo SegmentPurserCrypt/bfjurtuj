@@ -61,6 +61,6 @@ Interactive Map Overlay: Real-time distance telemetry and entity bounding boxes 
 
 
 
-<!-- update: A -->
+<!-- update: B -->
 
-> 💡 *IT Quote:* "_Programs must be written for people to read, and only incidentally for machines to execute. – Abelson & Sussman_"
+> 💡 *IT Quote:* "_Experience is the name everyone gives to their mistakes. – Oscar Wilde_"
